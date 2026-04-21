@@ -1,5 +1,7 @@
 # 🚀 100 Days of Data Science Projects
 
+
+
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)
